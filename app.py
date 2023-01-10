@@ -11,7 +11,7 @@ import os
 import json
 
 st.set_page_config(
-    page_title="BERT Keyword Extractor",
+    page_title="Keyword Extractor",
     page_icon="🎈",
 )
 
