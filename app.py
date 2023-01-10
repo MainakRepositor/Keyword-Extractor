@@ -12,7 +12,7 @@ import json
 
 st.set_page_config(
     page_title="Keyword Extractor",
-    page_icon="🎈",
+    page_icon="key",
 )
 
 
@@ -36,7 +36,7 @@ c30, c31, c32 = st.columns([2.5, 1, 3])
 
 with c30:
     # st.image("logo.png", width=400)
-    st.title("🔑 BERT Keyword Extractor")
+    st.title(" 🔑📚 Keyword Extractor")
     st.header("")
 
 
