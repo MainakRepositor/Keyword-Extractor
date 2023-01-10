@@ -1,0 +1,7 @@
+seaborn
+matplotlib
+streamlit == 0.87
+pandas 
+keybert
+flair
+click<8
