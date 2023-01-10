@@ -1,6 +1,3 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/example-app-bert-keyword-extractor/main/app.py)
-
-
 # Bert Keyword Extractor
 
 - The BERT Keyword Extractor app is an easy-to-use interface built in
